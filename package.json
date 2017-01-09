@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-dashdb",
-  "version": "3.0.0-alpha.1-tmp-deadlock-timeoutfix",
+  "version": "3.0.0-alpha.1-tmp-deadlock-timeout-fix",
   "description": "LoopBack Connector for IBM dashDB",
   "engines": {
     "node": ">=4"
